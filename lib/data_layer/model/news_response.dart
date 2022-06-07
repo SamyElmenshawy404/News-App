@@ -1,4 +1,4 @@
-import 'package:news_app/data_classes/model/sources_response.dart';
+import 'package:news_app/data_layer/model/sources_response.dart';
 
 /// status : "ok"
 /// totalResults : 11318
